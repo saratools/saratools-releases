@@ -1,4 +1,4 @@
-# Sara Tools — Releases
+# SaraTools — Releases
 
 Signed release binaries for the Sara Tools launcher, injector, and plugins.
 
