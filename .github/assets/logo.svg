@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="152" viewBox="0 0 600 152">
+<rect width="600" height="152" rx="20" fill="#15141f"/>
+<g transform="translate(40,40) scale(1.2)">
+<path d="M33,20.56 A34,34 0 1,0 67,20.56" fill="none" stroke="#c99a62" stroke-width="3.6" stroke-linecap="round"/>
+<line x1="41.20" y1="17.16" x2="38.87" y2="8.47" stroke="#c99a62" stroke-width="3.6" stroke-linecap="round"/>
+<line x1="50" y1="16" x2="50" y2="1" stroke="#c99a62" stroke-width="3.6" stroke-linecap="round"/>
+<line x1="58.80" y1="17.16" x2="61.13" y2="8.47" stroke="#c99a62" stroke-width="3.6" stroke-linecap="round"/>
+<circle cx="50" cy="50" r="6" fill="#c99a62"/>
+</g>
+<text x="190" y="100" font-family="Fraunces" font-weight="600" font-size="52" fill="#f3f1ea">Sara<tspan font-family="Fraunces Medium" fill="#8b87b0" dx="10">Tools</tspan></text>
+</svg>
